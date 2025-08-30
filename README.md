@@ -11,6 +11,7 @@ This project is an AI-powered research assistant built from scratch using LangCh
 
 The system uses tool calling agents and a Pydantic-based output parser to ensure responses follow a structured schema.
 
+
 🔍 Features
 
 Agent-based architecture using LangChain
@@ -28,6 +29,7 @@ Save Results Tool
 Structured response output using Pydantic
 
 Environment variable management with dotenv
+
 
 🛠 Tech Stack
 
