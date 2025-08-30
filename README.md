@@ -5,8 +5,11 @@
 This project is an AI-powered research assistant built from scratch using LangChain, Anthropic Claude, and tool-based agents. It allows you to enter any research topic, and the agent will:
 
 ✅ Search the web for relevant information
+
 ✅ Pull data from Wikipedia
+
 ✅ Summarize the findings into a structured format
+
 ✅ Save the research results for later use
 
 The system uses tool calling agents and a Pydantic-based output parser to ensure responses follow a structured schema.
