@@ -17,21 +17,21 @@ The system uses tool calling agents and a Pydantic-based output parser to ensure
 
 🔍 Features
 
-Agent-based architecture using LangChain
+- Agent-based architecture using LangChain
 
-Integration with Anthropic Claude 3.5 Sonnet for reasoning and research
+- Integration with Anthropic Claude 3.5 Sonnet for reasoning and research
 
-Dynamic tool usage:
+ Dynamic tool usage:
 
-Web Search Tool
+- Web Search Tool
 
-Wikipedia Tool
+- Wikipedia Tool
 
-Save Results Tool
+- Save Results Tool
 
-Structured response output using Pydantic
+- Structured response output using Pydantic
 
-Environment variable management with dotenv
+- Environment variable management with dotenv
 
 
 🛠 Tech Stack
