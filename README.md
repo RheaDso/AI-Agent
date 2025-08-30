@@ -1,5 +1,3 @@
-# PythonAIAgent
-
 🧠 AI Research Assistant with LangChain & Anthropic Claude
 
 This project is an AI-powered research assistant built from scratch using LangChain, Anthropic Claude, and tool-based agents. It allows you to enter any research topic, and the agent will:
