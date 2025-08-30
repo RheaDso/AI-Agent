@@ -38,8 +38,6 @@ The system uses tool calling agents and a Pydantic-based output parser to ensure
 
 - LangChain (Core, Community Tools)
 
-- Anthropic Claude API
-
 - OpenAI & LangChain integrations
 
 - Pydantic (for structured output)
