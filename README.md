@@ -15,13 +15,13 @@ This project is an AI-powered research assistant built from scratch using LangCh
 The system uses tool calling agents and a Pydantic-based output parser to ensure responses follow a structured schema.
 
 
-🔍 Features
+🔍 #Features
 
 - Agent-based architecture using LangChain
 
 - Integration with Anthropic Claude 3.5 Sonnet for reasoning and research
 
- Dynamic tool usage:
+  Dynamic tool usage:
 
 - Web Search Tool
 
@@ -34,16 +34,16 @@ The system uses tool calling agents and a Pydantic-based output parser to ensure
 - Environment variable management with dotenv
 
 
-🛠 Tech Stack
+🛠 #Tech Stack
 
-Python
+- Python
 
-LangChain (Core, Community Tools)
+- LangChain (Core, Community Tools)
 
-Anthropic Claude API
+- Anthropic Claude API
 
-OpenAI & LangChain integrations
+- OpenAI & LangChain integrations
 
-Pydantic (for structured output)
+- Pydantic (for structured output)
 
-Wikipedia API for knowledge retrieval
+- Wikipedia API for knowledge retrieval
